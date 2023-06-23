@@ -1,3 +1,3 @@
-GOOGLE_REGION = us-central1-c
-GOOGLE_PROJECT = GKE_cluster
-GKE_NUM_NODES = 2
+GOOGLE_REGION  = us-central1-c
+GOOGLE_PROJECT = telegram-bot-385708
+GKE_NUM_NODES  = 2

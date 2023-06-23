@@ -1,15 +1,15 @@
 variable "GOOGLE_REGION" {
-  type = string
-  default = "us-central1-c"
+  type        = string
+  default     = "us-central1-c"
   description = "GCP region name"
 }
 
 variable "GOOGLE_PROJECT" {
-  type = string
+  type        = string
   description = "GCP project name"
 }
 
 variable "GKE_NUM_NODES" {
-  type = string
+  type    = string
   default = 1
 }
